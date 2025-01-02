@@ -1,2 +1,2 @@
 # raydium-monitor
-Python Based monitoring new solana tokens in realtime
+Typescript Based monitoring new solana tokens in realtime
